@@ -7,7 +7,7 @@ How to use
 ----------
 
 ###With UI
-The load program of this version is complied on OS X 10.9. 
+The load program (opengl) of this version is complied on OS X 10.9. 
 
 So try to run the program on OS X operating system.
 

@@ -3,6 +3,11 @@ MeshSimplification
 
 Mesh Simplification algorithm by using vertex clustering
 
+Requirements
+----------
+Python 2.7
+OpenGL for program with UI
+
 How to use
 ----------
 

@@ -9,7 +9,7 @@ How to use
 ###With UI
 The load program (OpenGL) of this version is complied on OS X 10.9. 
 
-So try to run the program on OS X operating system.
+Please run the program on OS X operating system.
 
 ###No UI
 Usage: **python main.py filename unit**

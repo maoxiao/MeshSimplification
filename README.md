@@ -14,11 +14,11 @@ So try to run the program on OS X operating system.
 ###No UI
 Usage: **python main.py filename unit**
 
-"filename" is any files in "original_mesh" folder
+**"filename"** is any files in "original_mesh" folder
 
-"unit" is the length of the bounding box of the model
+**"unit"** is the length of the bounding box of the model
 
-for example: python main.py cow.off 0.02
+for example: **python main.py cow.off 0.02**
 
 
 

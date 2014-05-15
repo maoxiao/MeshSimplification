@@ -13,7 +13,7 @@ How to use
 ----------
 
 ###With UI
-The load program (OpenGL) of this version is complied on OS X 10.9. 
+The load program (using OpenGL for rendering the model) of this version is complied on OS X 10.9. 
 
 Please run the program on OS X operating system.
 

@@ -127,7 +127,7 @@ class Window:
     
     def simplify(self):
         text  = self.input_text.get()
-        if type(eval(text)) == float and float(text) < 1 and self.selected_index > -1:
+        if len(text) > 0 and type(eval(text)) == float and float(text) < 1 and self.selected_index > -1:
             
             if self.simplified_process:
                 self.simplified_process.terminate()

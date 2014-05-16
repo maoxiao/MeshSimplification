@@ -26,7 +26,7 @@ Usage: **python main.py filename unit**
 
 **"filename"** is any files in "original_mesh" folder
 
-**"unit"** is the length of the bounding box of the model
+**"unit"** (less than 1.0) is the length of the bounding box of the model
 
 for example: **python main.py cow.off 0.02**
 

@@ -15,6 +15,7 @@ How to use
 
 
 ###With UI
+-----------
 The "load" program (using OpenGL for rendering the model) of this version is complied on OS X 10.9. 
 
 Please run the program on OS X operating system.
@@ -22,6 +23,7 @@ Please run the program on OS X operating system.
 Since the program is not automatically focused on OS X, you need to click the python icon, even though the program is running. Then you can choose the model you want to simplify and type in a float number (less than 1.0) and press “Simplify” button.
 
 ###No UI
+----------
 Usage: **python main.py filename unit**
 
 **"filename"** is any files in "original_mesh" folder
